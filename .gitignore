@@ -24,3 +24,6 @@ yarn-error.log*
 
 # Claude Code local
 .claude/
+
+# local reference images (not part of the app)
+imgs/
